@@ -4,7 +4,7 @@
         "price": 0.44,
         "target": 0.193,
         "rebase": "+135%"
-    },{
+    }, {
         "timestamp": "12/27/2020 @ 5:00pm UTC",
         "price": 0.591,
         "target": 0.193,
@@ -16,9 +16,14 @@
         "rebase": "+108%"
     }, {
         "timestamp": "12/29/2020 @ 5:00pm UTC",
-        "price": 0.101,
+        "price": 0.034,
         "target": 0.204,
-        "rebase": "-50.3%"
+        "rebase": "-83.33%"
+    },{
+        "timestamp": "12/29/2020 @ 5:00pm UTC",
+        "price": 0.034,
+        "target": 0.204,
+        "rebase": "-83.33%"
     }],
     "pairs": 27253,
     "target": 0.204

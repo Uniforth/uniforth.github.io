@@ -49,7 +49,12 @@
         "price": 0.134,
         "target": 0.249,
         "rebase": "-46.7%"
+    }, {
+        "timestamp": "1/4/2021 @ 5:42pm UTC",
+        "price": 0.281,
+        "target": 0.264,
+        "rebase": "+6%"
     }],
-    "pairs": 27716,
-    "target": 0.264
+    "pairs": 27802,
+    "target": 0.288
 }
